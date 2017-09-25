@@ -1,4 +1,4 @@
-# ![久游](https://avatars1.githubusercontent.com/u/22127696?v=3&s=96)
+# ![久游](https://github.com/999vpn/999vpn.github.io/blob/master/static/pic/logo.png?raw=true)
 久游官方网站页offical website of qwvpn
 
 九游官方QQ群**527713442**
